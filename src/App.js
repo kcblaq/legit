@@ -1,11 +1,12 @@
 import { Box } from '@mui/material';
 import './App.css';
-import Nav from './nav';
+import Nav from './layout';
+
 
 
 function App() {
   return (
-    <Box sx={{mx:2, my:1}} >
+    <Box  >
       <Nav/>
         
     </Box>
