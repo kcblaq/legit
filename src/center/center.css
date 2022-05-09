@@ -1,0 +1,17 @@
+.title{
+   
+    color:#667085;
+    font-size: 16px;
+    font-weight: 500;
+}
+.description{
+    color:#1D2939;
+    font-size: 14px;
+    font-weight: 400;  
+    /* margin-top: 20px; */
+}
+.selectCar{
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24);
+border-radius: 20px;
+}
