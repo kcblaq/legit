@@ -1,4 +1,4 @@
-.navIconMembers{
+/* .navIconMembers{
      color:#667085;
     font-weight:400;
      font-size:16px
@@ -6,3 +6,29 @@
 .navText{
 
 }
+.iconNav{
+text-decoration: none;
+padding:5px;
+border-radius: 10px;
+color:#000000
+
+}
+.iconNav:hover{
+     background-color: #8E44AD;
+     color:'#FFFFFF'
+}
+.iconNav:active{
+     background-color: #8E44AD;
+     color:#FFFFFF; 
+}
+.iconLink{
+     text-decoration: none;
+     color:#FFFFFF;
+     
+}
+.active,.iconLink:active{
+     background-color: #8E44AD;
+     color:#FFFFFF !important;
+}
+
+    */
